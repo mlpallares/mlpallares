@@ -6,8 +6,6 @@
 
 - 💬 Puedes preguntarme acerca de **Java, Python and others.**
 
-- 📫 **Mí mail es mlpallares@.**
-
 - 📄 Tengo experiencia en Base de Datos
 
 <h3 align="left">LinkedIn</h3>
