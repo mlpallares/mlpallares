@@ -1,16 +1,16 @@
 
 
-<h1 align="center">Hi 👋, I'm Maria Laura</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Maria Laura</h1>
 <h3 align="center">A passionate security information from Argentina</h3>
 
 
-- 🌱 I’m currently learning **about cibersecurity.**
+- 🌱 I’m currently learning **Ciber Security.**
 
-- 💬 Ask me about **Java, Python and others.**
+- 💬 Ask me about **anything related to Ciber Security.** I am happy to help and guide you.
 
-- 📫 How to reach me **my mail is mlpallares@.**
+- 📫 How to reach me **mlpallares@.**
 
-- 📄 Know about my experiences **in BD**
+- :book: I'm always **willing to learn.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,5 +40,6 @@
 
 -  Sociability.
 
+---
 
-
+<img src="https://komarev.com/ghpvc/?username=mlpallaresxD&color=blue">  [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-blue.svg)](https://verma-anushka.github.io/mlpallares/)
