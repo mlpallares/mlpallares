@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **my mail is mlpallares@.**
 
-- 📄 Know about my experiences [experience **in BD**]
+- 📄 Know about my experiences **in BD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
