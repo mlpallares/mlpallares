@@ -1,16 +1,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Maria Laura</h1>
-<h3 align="center">Apassionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate security information from Argentina</h3>
 
 
-- 🌱 I’m currently learning **Sobre ciberseguridad.**
+- 🌱 I’m currently learning **about cibersecurity.**
 
 - 💬 Ask me about **Java, Python and others.**
 
-- 📫 How to reach me **Mí mail es mlpallares@.**
+- 📫 How to reach me **my mail is mlpallares@.**
 
-- 📄 Know about my experiences [Tengo experiencia en Base de Datos]
+- 📄 Know about my experiences [experience **in BD**]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,13 +24,21 @@
 
 <h3 align="left">Soft skills:</h3>
 
--  Responsable.
+-  Responsability.
 
--  Trabajo en equipo y colaboración.    
+-  Positive attitude.
 
--  Adaptabilidad.
+-  Teamwork capability.    
 
--  Comunicación.
+-  Adaptability.
+
+-  Effective Communication.
+
+-  Patience.
+
+-  Courtesy.
+
+-  Sociability.
 
 
 
