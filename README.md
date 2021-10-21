@@ -4,9 +4,9 @@
 <h3 align="center">A passionate security information from Argentina</h3>
 
 
-- 🌱 I’m currently learning **Ciber Security.**
+- 🌱 I’m currently learning **Full Stuck Python.**
 
-- 💬 Ask me about **anything related to Ciber Security.** I am happy to help and guide you.
+- 💬 Ask me about **anything related to FullS STuck Python.** I am happy to help and guide you.
 
 - 📫 How to reach me **mlpallares@.**
 
