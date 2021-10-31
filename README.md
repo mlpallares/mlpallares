@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Python.**
 
-- 💬 Ask me about **anything related to FullS STuck Python.** I am happy to help and guide you.
+- 💬 Ask me about **anything related to FullS STack Python.** I am happy to help and guide you.
 
 - 📫 How to reach me **mlpallares@.**
 
