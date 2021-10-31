@@ -4,7 +4,7 @@
 <h3 align="center">A passionate security information from Argentina</h3>
 
 
-- 🌱 I’m currently learning **Full Stuck Python.**
+- 🌱 I’m currently learning **Full Stack Python.**
 
 - 💬 Ask me about **anything related to FullS STuck Python.** I am happy to help and guide you.
 
